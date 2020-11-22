@@ -94,3 +94,4 @@ https://www.youtube.com/watch?v=ObmEl-eeEP8
 
 ## 수상
 <img src="https://github.com/cherrytomato1/Cloudy/blob/master/images/%EC%83%81%EC%9E%A5.PNG" />
+<img src="https://github.com/gyrnjs12/Cloudy/blob/master/images/%E1%84%89%E1%85%A1%E1%86%BC%E1%84%8C%E1%85%A1%E1%86%BC2.png" />
